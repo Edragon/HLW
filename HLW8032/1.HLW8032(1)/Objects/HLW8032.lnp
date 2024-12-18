@@ -1,4 +1,0 @@
-".\Objects\STARTUP.obj",
-".\Objects\main.obj" 
-TO ".\Objects\HLW8032" 
-PRINT(".\Listings\HLW8032.m51") RAMSIZE(256) 
